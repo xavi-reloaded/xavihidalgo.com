@@ -1,4 +1,6 @@
-#[xavihidalgo.com](http://xavihidalgo.com/)
+#xavihidalgo.com
+
+You can visit the site here: [xavihidalgo.com](http://xavihidalgo.com/)
 
 I made this template to build a simple personal static site with bootstrap 4.
 As many times, I checked first github to look for good solutions and I found this nice project: [clarity](https://ifvictr.github.io/clarity/)
