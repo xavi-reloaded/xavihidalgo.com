@@ -10,3 +10,4 @@ New to Bootstrap? [Visit the homepage](https://getbootstrap.com/) or read the [g
 Free to use under the **MIT License**. 
 
 ![The site](images/xavihidalgo.com.png)
+![The site](images/xavihidalgoprojects.png)
